@@ -43,7 +43,7 @@ username.github.io/                # Root domain (qfey.in)
 │   ├── research-theme.css         # Research-specific CSS
 │   ├── custom-research.scss       # Research SCSS theme
 │   ├── papers/                    # Research papers
-│   │   ├── 2024-llm-evaluation/
+│   │   ├── 2025-<>/
 │   │   │   ├── index.qmd
 │   │   │   ├── paper.pdf
 │   │   │   ├── data/
@@ -53,12 +53,12 @@ username.github.io/                # Root domain (qfey.in)
 │   │   │       ├── figure1.png
 │   │   │       └── figure2.png
 │   │   └── working-papers/
-│   │       ├── draft-transformer-analysis/
+│   │       ├── draft-<>/
 │   │       │   ├── index.qmd
-│   │       └── proposal-neural-compression/
+│   │       └── proposal-<>/
 │   │           ├── index.qmd
 │   ├── projects/                  # Research projects
-│   │   └── quantum-ml/
+│   │   └── qml/
 │   │       ├── index.qmd
 │   │       └── simulations/
 │   ├── datasets/                  # Research datasets
